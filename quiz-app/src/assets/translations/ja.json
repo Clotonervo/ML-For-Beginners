@@ -1,56 +1,56 @@
 [
   {
-    "title": "Machine Learning for Beginners: Quizzes",
-    "complete": "Congratulations, you completed the quiz!",
-    "error": "Sorry, try again",
+    "title": "初心者のための機械学習: 小テスト",
+    "complete": "おめでとうございます、小テストを完了しました！",
+    "error": "すみません、もう一度試してみてください。",
     "quizzes": [
       {
         "id": 1,
-        "title": "Introduction to Machine Learning: Pre-Lecture Quiz",
+        "title": "機械学習への導入: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Applications of machine learning are all around us",
+            "questionText": "機械学習の応用は身近にある",
             "answerOptions": [
               {
-                "answerText": "True",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "False",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What is the technical difference between classical ML and deep learning?",
+            "questionText": "古典的機械学習と深層学習の技術的な違いは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "classical ML was invented first",
+                "answerText": "古典的機械学習のほうが先に発明された",
                 "isCorrect": "false"
               },
               {
-                "answerText": "the use of neural networks",
+                "answerText": "ニューラルネットワークを使用するかどうか",
                 "isCorrect": "true"
               },
               {
-                "answerText": "deep learning is used in robots",
+                "answerText": "深層学習はロボットに使用されている",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Why might a business want to use ML strategies?",
+            "questionText": "なぜ企業は機械学習の戦略を使いたいと思うのでしょうか？",
             "answerOptions": [
               {
-                "answerText": "to automate the solving of multi-dimensional problems",
+                "answerText": "多元的な問題の解決を自動化するため",
                 "isCorrect": "false"
               },
               {
-                "answerText": "to customize a shopping experience based on the type of customer",
+                "answerText": "顧客の種類に応じてショッピング体験をカスタマイズするため",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
@@ -59,55 +59,55 @@
       },
       {
         "id": 2,
-        "title": "Introduction to Machine Learning: Post-Lecture Quiz",
+        "title": "機械学習への導入: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Machine learning algorithms are meant to simulate",
+            "questionText": "機械学習のアルゴリズムがシミュレートするのは",
             "answerOptions": [
               {
-                "answerText": "intelligent machines",
+                "answerText": "賢いマシン",
                 "isCorrect": "false"
               },
               {
-                "answerText": "the human brain",
+                "answerText": "人間の脳",
                 "isCorrect": "true"
               },
               {
-                "answerText": "orangutans",
+                "answerText": "オランウータン",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What is an example of a classical ML technique?",
+            "questionText": "古典的機械学習の手法の例は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "natural language processing",
+                "answerText": "自然言語処理",
                 "isCorrect": "true"
               },
               {
-                "answerText": "deep learning",
+                "answerText": "深層学習",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Neural Networks",
+                "answerText": "ニューラルネットワーク",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Why should everyone learn the basics of ML?",
+            "questionText": "なぜ全員が機械学習の基礎を学ぶべきなのでしょうか？",
             "answerOptions": [
               {
-                "answerText": "learning ML is fun and accessible to everyone",
+                "answerText": "機械学習を学ぶのは誰でも始めやすくて楽しいから",
                 "isCorrect": "false"
               },
               {
-                "answerText": "ML strategies are being used in many industries and domains",
+                "answerText": "機械学習の戦略は多くの産業や領域で使用されているから",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
@@ -116,55 +116,55 @@
       },
       {
         "id": 3,
-        "title": "History of Machine Learning: Pre-Lecture Quiz",
+        "title": "機械学習の歴史: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Approximately when was the term 'artificial intelligence' coined?",
+            "questionText": "「人工知能」という言葉が生まれたのはいつ頃でしょうか？",
             "answerOptions": [
               {
-                "answerText": "1980s",
+                "answerText": "1980年代",
                 "isCorrect": "false"
               },
               {
-                "answerText": "1950s",
+                "answerText": "1950年代",
                 "isCorrect": "true"
               },
               {
-                "answerText": "1930s",
+                "answerText": "1930年代",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Who was one of the early pioneers of machine learning?",
+            "questionText": "機械学習における先駆者のうちのひとりは誰でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Alan Turing",
+                "answerText": "アラン・チューリング",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Bill Gates",
+                "answerText": "ビル・ゲイツ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Shakey the robot",
+                "answerText": "シェーキー",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What is one of the reasons that advancement in AI slowed in the 1970s?",
+            "questionText": "1970年代にAIの進歩が鈍化した理由のひとつは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Limited compute power",
+                "answerText": "計算能力の限界",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Not enough skilled engineers",
+                "answerText": "熟練したエンジニアの不足",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Conflicts between countries",
+                "answerText": "国家間の紛争",
                 "isCorrect": "false"
               }
             ]
@@ -173,10 +173,10 @@
       },
       {
         "id": 4,
-        "title": "History of Machine Learning: Post-Lecture Quiz",
+        "title": "機械学習の歴史: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "What's an example of a 'scruffy' AI system?",
+            "questionText": "「みすぼらしい」AIシステムの例は何でしょうか？",
             "answerOptions": [
               {
                 "answerText": "ELIZA",
@@ -193,7 +193,7 @@
             ]
           },
           {
-            "questionText": "What is an example of a technology that was developed during 'The Golden Years'?",
+            "questionText": "「黄金期」に開発された技術の例は何でしょうか？",
             "answerOptions": [
               {
                 "answerText": "Blocks world",
@@ -204,24 +204,24 @@
                 "isCorrect": "false"
               },
               {
-                "answerText": "Robot dogs",
+                "answerText": "ロボット犬",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which event was foundational in the creation and expansion of the field of artificial intelligence?",
+            "questionText": "人工知能の分野において誕生と発展の礎になった出来事はどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Turing Test",
+                "answerText": "チューリングテスト",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Dartmouth Summer Research Project",
+                "answerText": "ダートマス夏期研究会",
                 "isCorrect": "true"
               },
               {
-                "answerText": "AI Winter",
+                "answerText": "AIの冬",
                 "isCorrect": "false"
               }
             ]
@@ -230,55 +230,55 @@
       },
       {
         "id": 5,
-        "title": "Fairness and Machine Learning: Pre-Lecture Quiz",
+        "title": "公平性と機械学習: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Unfairness in Machine Learning can happen",
+            "questionText": "機械学習において不公平性が起こりうるのは",
             "answerOptions": [
               {
-                "answerText": "intentionally",
+                "answerText": "故意で",
                 "isCorrect": "false"
               },
               {
-                "answerText": "unintentionally",
+                "answerText": "過失で",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方で",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "The term 'unfairness' in ML connotes:",
+            "questionText": "機械学習において「不公平性」が意味するのは",
             "answerOptions": [
               {
-                "answerText": "harms for a group of people",
+                "answerText": "あるグループの人々に対する弊害",
                 "isCorrect": "true"
               },
               {
-                "answerText": "harm to one person",
+                "answerText": "ひとりの人に対する弊害",
                 "isCorrect": "false"
               },
               {
-                "answerText": "harms for the majority of people",
+                "answerText": "大多数の人々に対する弊害",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "The five main types of harms include",
+            "questionText": "5つの主な弊害は",
             "answerOptions": [
               {
-                "answerText": "allocation, quality of service, stereotyping, denigration, and over- or under- representation",
+                "answerText": "割り当て・サービスの質・偏見・誹謗中傷・表現の過不足",
                 "isCorrect": "true"
               },
               {
-                "answerText": "elocation, quality of service, stereotyping, denigration, and over- or under- representation ",
+                "answerText": "移住・サービスの質・偏見・誹謗中傷・表現の過不足",
                 "isCorrect": "false"
               },
               {
-                "answerText": "allocation, quality of service, stereophonics, denigration, and over- or under- representation ",
+                "answerText": "割り当て・サービスの質・ステレオ・誹謗中傷・表現の過不足",
                 "isCorrect": "false"
               }
             ]
@@ -287,55 +287,55 @@
       },
       {
         "id": 6,
-        "title": "Fairness and Machine Learning: Post-Lecture Quiz",
+        "title": "公平性と機械学習: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Unfairness in a model can be caused by",
+            "questionText": "モデルに不公平性が発生する原因のひとつは",
             "answerOptions": [
               {
-                "answerText": "overrreliance on historical data",
+                "answerText": "過去のデータに対する依存度が高すぎること",
                 "isCorrect": "true"
               },
               {
-                "answerText": "underreliance on historical data",
+                "answerText": "過去のデータに対する依存度が低すぎること",
                 "isCorrect": "false"
               },
               {
-                "answerText": "too closely aligning to historical data",
+                "answerText": "過去のデータとの整合性が高すぎること",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "To mitigate unfairness, you can",
+            "questionText": "不公平性を緩和するためにできることは",
             "answerOptions": [
               {
-                "answerText": "identify harms and affected groups",
+                "answerText": "弊害とそれを受けるグループの特定",
                 "isCorrect": "false"
               },
               {
-                "answerText": "define fairness metrics",
+                "answerText": "公平性に関する指標の定義",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "Fairlearn is a package that can",
+            "questionText": "Fairlearnパッケージができることは",
             "answerOptions": [
               {
-                "answerText": "compare multiple models by using fairness and performance metrics",
+                "answerText": "複数のモデル間で公平性とパフォーマンスの指標を比較",
                 "isCorrect": "true"
               },
               {
-                "answerText": "choose the best model for your needs",
+                "answerText": "ニーズに応じた最適なモデルの選択",
                 "isCorrect": "false"
               },
               {
-                "answerText": "help you decide what is fair and what is not",
+                "answerText": "何が公平で、何がそうでないかの判断を助けること",
                 "isCorrect": "false"
               }
             ]
@@ -344,55 +344,55 @@
       },
       {
         "id": 7,
-        "title": "Tools and Techniques: Pre-Lecture Quiz",
+        "title": "ツールと手法: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "When building a model, you should:",
+            "questionText": "モデルを構築する際にすべきなのは",
             "answerOptions": [
               {
-                "answerText": "prepare your data, then train your model",
+                "answerText": "データを準備してから学習すること",
                 "isCorrect": "true"
               },
               {
-                "answerText": "choose a training method, then prepare your data",
+                "answerText": "学習方法を選んでからデータを準備すること",
                 "isCorrect": "false"
               },
               {
-                "answerText": "tune parameters, then train your model",
+                "answerText": "パラメータを調整してから学習すること",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Your data's ___ will impact the quality of your ML model",
+            "questionText": "データの〇〇が機械学習モデルの質に影響を与える",
             "answerOptions": [
               {
-                "answerText": "quantity",
+                "answerText": "量",
                 "isCorrect": "false"
               },
               {
-                "answerText": "shape",
+                "answerText": "形",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "A feature variable is:",
+            "questionText": "特徴量とは",
             "answerOptions": [
               {
-                "answerText": "a quality of your data",
+                "answerText": "データの質",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a measurable property of your data",
+                "answerText": "データの測定可能な特性",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a row of your data",
+                "answerText": "データの列",
                 "isCorrect": "false"
               }
             ]
@@ -401,44 +401,44 @@
       },
       {
         "id": 8,
-        "title": "Tools and Techniques: Post-Lecture Quiz",
+        "title": "ツールと手法: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "You should visualize your data because",
+            "questionText": "データを可視化すべき理由は",
             "answerOptions": [
               {
-                "answerText": "you can discover outliers",
+                "answerText": "外れ値を発見できるから",
                 "isCorrect": "false"
               },
               {
-                "answerText": "you can discover potential cause for bias",
+                "answerText": "バイアスの原因を発見できるから",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of these",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "Split your data into:",
+            "questionText": "分割するデータの種類は",
             "answerOptions": [
               {
-                "answerText": "training and turing sets",
+                "answerText": "訓練データとチューリングデータ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "training and test sets",
+                "answerText": "訓練データとテストデータ",
                 "isCorrect": "true"
               },
               {
-                "answerText": "validation and evaluation sets",
+                "answerText": "検証データと評価データ",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A common command to start the training process in various ML libraries is:",
+            "questionText": "様々な機械学習ライブラリで学習プロセスを開始する一般的なコマンドは",
             "answerOptions": [
               {
                 "answerText": "model.travel",
@@ -458,55 +458,55 @@
       },
       {
         "id": 9,
-        "title": "Introduction to Regression: Pre-Lecture Quiz",
+        "title": "回帰への導入: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Which of these variables is a numeric variable?",
+            "questionText": "次の変数のうち、数値の変数はどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Height",
+                "answerText": "身長",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Gender",
+                "answerText": "性別",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Hair Color",
+                "answerText": "髪の色",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of these variables is a categorical variable?",
+            "questionText": "次の変数のうち、カテゴリーの変数はどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Heart Rate",
+                "answerText": "心拍数",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Blood Type",
+                "answerText": "血液型",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Weight",
+                "answerText": "体重",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of these problems is a Regression analysis-based problem?",
+            "questionText": "次の問題のうち、回帰分析に基づく問題はどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Predicting the final exam marks of a student",
+                "answerText": "学生の期末試験の点数を予測する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Predicting the blood type of a person",
+                "answerText": "ある人物の血液型を予測する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Predicting whether an email is spam or not",
+                "answerText": "メールがスパムかどうかを判定する",
                 "isCorrect": "false"
               }
             ]
@@ -515,55 +515,55 @@
       },
       {
         "id": 10,
-        "title": "Introduction to Regression: Post-Lecture Quiz",
+        "title": "回帰への導入: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "If your Machine Learning model's training accuracy is 95 % and the testing accuracy is 30 %, then what type of condition it is called?",
+            "questionText": "機械学習モデルの学習精度が95%でテスト精度が30%の場合、どんな状態であると呼ばれるでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Overfitting",
+                "answerText": "過学習",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Underfitting",
+                "answerText": "未学習",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Double Fitting",
+                "answerText": "二重学習",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "The process of identifying significant features from a set of features is called:",
+            "questionText": "特徴量の中から重要なものを特定するプロセスの名前は",
             "answerOptions": [
               {
-                "answerText": "Feature Extraction",
+                "answerText": "特徴量抽出",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Feature Dimensionality Reduction",
+                "answerText": "特徴量の次元削減",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Feature Selection",
+                "answerText": "特徴量選択",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "The process of splitting a dataset into a certain ratio of training and testing dataset using Scikit Learn's 'train_test_split()' method/function is called:",
+            "questionText": "Scikit Learn の 'train_test_split()' メソッド/関数を使用して、データセットを一定の割合で訓練データセットとテストデータセットに分割する処理の名前は",
             "answerOptions": [
               {
-                "answerText": "Cross-Validation",
+                "answerText": "交差検証",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Hold-Out Validation",
+                "answerText": "ホールドアウト検証",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Leave one out Validation",
+                "answerText": "ひとつ抜き検証",
                 "isCorrect": "false"
               }
             ]
@@ -572,10 +572,10 @@
       },
       {
         "id": 11,
-        "title": "Prepare and Visualize Data for Regression: Pre-Lecture Quiz",
+        "title": "回帰のためにデータを準備して可視化する: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Which of these Python modules is used to plot the visualization of data?",
+            "questionText": "次のPythonモジュールのうち、データを可視化するために使用されるものはどれでしょうか？",
             "answerOptions": [
               {
                 "answerText": "Numpy",
@@ -592,35 +592,35 @@
             ]
           },
           {
-            "questionText": "If you want to understand the spread or the other characteristics of data points of your dataset, then perform:",
+            "questionText": "データセットの広がり方やその他の特性を理解するために実行するのは",
             "answerOptions": [
               {
-                "answerText": "Data Visualization",
+                "answerText": "データの可視化",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Data Preprocessing",
+                "answerText": "データの前処理",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Train Test Split",
+                "answerText": "訓練データとテストデータの分割",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of these is a part of the Data Visualization step in a Machine Learning project?",
+            "questionText": "次のうち、機械学習プロジェクトにおいてデータ可視化ステップの一部であるものはどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Incorporating a certain Machine Learning algorithm",
+                "answerText": "特定の機械学習アルゴリズムを取り入れる",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Creating a pictorial representation of data using different plotting methods",
+                "answerText": "様々なプロット方法を使ってデータの図解表現を作成する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Normalizing the values of a dataset",
+                "answerText": "データセットの値を正規化する",
                 "isCorrect": "false"
               }
             ]
@@ -629,10 +629,10 @@
       },
       {
         "id": 12,
-        "title": "Prepare and Visualize Data for Regression: Post-Lecture Quiz",
+        "title": "回帰のためにデータを準備して可視化する: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Which of these code snippets is correct based on this lesson, if you want to check for the presence of missing values in your dataset? Suppose the dataset is stored in a variable named 'dataset' which is a Pandas DataFrame object.",
+            "questionText": "次のコードスニペットのうち、データセットに欠損値が含まれているかどうかを確認するものとして、このレッスンにおいて正しいのはどれでしょうか？なお、データセットはPandasのDataFrameオブジェクトである 'dataset' という変数に格納されているものとします。",
             "answerOptions": [
               {
                 "answerText": "dataset.isnull().sum()",
@@ -649,35 +649,35 @@
             ]
           },
           {
-            "questionText": "Which of these plotting methods is useful when you would like to understand the spread of different groups of datapoints from your dataset?",
+            "questionText": "次のプロット方法のうち、データセットの異なるデータグループの広がり方を理解するために有効なものはどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Scatter Plot",
+                "answerText": "散布図",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Line Plot",
+                "answerText": "折れ線グラフ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Bar Plot",
+                "answerText": "棒グラフ",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "What can Data Visualization NOT tell you?",
+            "questionText": "データ可視化が教えてくれないことは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Relationships among datapoints",
+                "answerText": "データポイント間の関係",
                 "isCorrect": "false"
               },
               {
-                "answerText": "The source from where the dataset is collected",
+                "answerText": "データセットの収集源",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Finding the presence of outliers in the dataset",
+                "answerText": "データセットに外れ値が含まれているかどうか",
                 "isCorrect": "false"
               }
             ]
@@ -686,55 +686,55 @@
       },
       {
         "id": 13,
-        "title": "Linear and Polynomial Regression: Pre-Lecture Quiz",
+        "title": "線形および多項式回帰: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Matplotlib is a ",
+            "questionText": "Matplotlibは",
             "answerOptions": [
               {
-                "answerText": "drawing library",
+                "answerText": "描画ライブラリ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "data visualization library",
+                "answerText": "データ可視化ライブラリ",
                 "isCorrect": "true"
               },
               {
-                "answerText": "lending library",
+                "answerText": "図書館",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Linear Regression uses the following to plot relationships between variables",
+            "questionText": "線形回帰が変数間の関係をプロットする方法は",
             "answerOptions": [
               {
-                "answerText": "a straight line",
+                "answerText": "直線",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a circle",
+                "answerText": "円J",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a curve",
+                "answerText": "曲線",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A good Linear Regression model has a ___ Correlation Coefficient",
+            "questionText": "優れた線形回帰モデルは〇〇相関係数を持つ",
             "answerOptions": [
               {
-                "answerText": "low",
+                "answerText": "低い",
                 "isCorrect": "false"
               },
               {
-                "answerText": "high",
+                "answerText": "高い",
                 "isCorrect": "true"
               },
               {
-                "answerText": "flat",
+                "answerText": "平坦な",
                 "isCorrect": "false"
               }
             ]
@@ -743,55 +743,55 @@
       },
       {
         "id": 14,
-        "title": "Linear and Polynomial Regression: Post-Lecture Quiz",
+        "title": "線形および多項式回帰: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "If your data is nonlinear, try a ___ type of Regression",
+            "questionText": "データが線形でない場合、〇〇回帰を試すと良い",
             "answerOptions": [
               {
-                "answerText": "linear",
+                "answerText": "線形",
                 "isCorrect": "false"
               },
               {
-                "answerText": "spherical",
+                "answerText": "球面",
                 "isCorrect": "false"
               },
               {
-                "answerText": "polynomial",
+                "answerText": "多項式",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "These are all types of Regression methods",
+            "questionText": "すべて回帰法の種類なのは",
             "answerOptions": [
               {
-                "answerText": "Falsestep, Ridge, Lasso and Elasticnet",
+                "answerText": "フォルスステップ・リッジ・ラッソ・エラスティックネット",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Stepwise, Ridge, Lasso and Elasticnet",
+                "answerText": "ステップワイズ・リッジ・ラッソ・エラスティックネット",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Stepwise, Ridge, Lariat and Elasticnet",
+                "answerText": "ステップワイズ・リッジ・ラリアット・エラスティックネット",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Least-Squares Regression means that all the datapoints surrounding the regression line are:",
+            "questionText": "最小二乗回帰は回帰直線のまわりのすべてのデータポイントが",
             "answerOptions": [
               {
-                "answerText": "squared and then subtracted",
+                "answerText": "二乗してから減算されている",
                 "isCorrect": "false"
               },
               {
-                "answerText": "multiplied",
+                "answerText": "乗算されている",
                 "isCorrect": "false"
               },
               {
-                "answerText": "squared and then added up",
+                "answerText": "二乗してから加算されている",
                 "isCorrect": "true"
               }
             ]
@@ -800,55 +800,55 @@
       },
       {
         "id": 15,
-        "title": "Logistic Regression: Pre-Lecture Quiz",
+        "title": "ロジスティック回帰: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Use Logistic Regression to predict",
+            "questionText": "ロジスティック回帰が予測するのは",
             "answerOptions": [
               {
-                "answerText": "whether an apple is ripe or not",
+                "answerText": "りんごが熟しているかどうか",
                 "isCorrect": "true"
               },
               {
-                "answerText": "how many tickets can be sold in a month",
+                "answerText": "チケットが月にいくつ売れるか",
                 "isCorrect": "false"
               },
               {
-                "answerText": "what color the sky will turn tomorrow at 6 PM",
+                "answerText": "明日の午後6時に空が何色になるか",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Types of Logistic Regression include",
+            "questionText": "ロジスティック回帰の種類に含まれるのは",
             "answerOptions": [
               {
-                "answerText": "multinomial and cardinal",
+                "answerText": "多項と基本",
                 "isCorrect": "false"
               },
               {
-                "answerText": "multinomial and ordinal",
+                "answerText": "多項と順序",
                 "isCorrect": "true"
               },
               {
-                "answerText": "principal and ordinal",
+                "answerText": "主要と順序",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Your data has weak correlations. The best type of Regression to use is:",
+            "questionText": "あなたのデータには弱い相関があります。最適な回帰の種類は",
             "answerOptions": [
               {
-                "answerText": "Logistic",
+                "answerText": "ロジスティック",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Linear",
+                "answerText": "線形",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Cardinal",
+                "answerText": "基本",
                 "isCorrect": "false"
               }
             ]
@@ -857,55 +857,55 @@
       },
       {
         "id": 16,
-        "title": "Logistic Regression: Post-Lecture Quiz",
+        "title": "ロジスティック回帰: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Seaborn is a type of",
+            "questionText": "Seabornは",
             "answerOptions": [
               {
-                "answerText": "data visualization library",
+                "answerText": "データ可視化ライブラリ",
                 "isCorrect": "true"
               },
               {
-                "answerText": "mapping library",
+                "answerText": "地図ライブラリ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "mathematical library",
+                "answerText": "数学ライブラリ",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A confusion matrix is also known as a:",
+            "questionText": "混同行列の別名は",
             "answerOptions": [
               {
-                "answerText": "error matrix",
+                "answerText": "誤差行列",
                 "isCorrect": "true"
               },
               {
-                "answerText": "truth matrix",
+                "answerText": "真理行列",
                 "isCorrect": "false"
               },
               {
-                "answerText": "accuracy matrix",
+                "answerText": "精度行列",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A good model will have:",
+            "questionText": "良いモデルは",
             "answerOptions": [
               {
-                "answerText": "a large number of false positives and true negatives in its confusion matrix",
+                "answerText": "混同行列に多くの偽陽性と真陰性を含む",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a large number of true positives and true negatives in its confusion matrix",
+                "answerText": "混同行列に多くの真陽性と真陰性を含む",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a large number of true positives and false negatives in its confusion matrix",
+                "answerText": "混同行列に多くの真陽性と偽陰性を含む",
                 "isCorrect": "false"
               }
             ]
@@ -914,10 +914,10 @@
       },
       {
         "id": 17,
-        "title": "Build a Web App: Pre-Lecture Quiz",
+        "title": "Webアプリを構築する: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "What does ONNX stand for?",
+            "questionText": "ONNXは何の略でしょうか？",
             "answerOptions": [
               {
                 "answerText": "Over Neural Network Exchange",
@@ -934,35 +934,35 @@
             ]
           },
           {
-            "questionText": "How is Flask defined by its creators?",
+            "questionText": "Flaskは作成者にどのように定義されているでしょうか？",
             "answerOptions": [
               {
-                "answerText": "mini-framework",
+                "answerText": "ミニフレームワーク",
                 "isCorrect": "false"
               },
               {
-                "answerText": "large-framework",
+                "answerText": "ラージフレームワーク",
                 "isCorrect": "false"
               },
               {
-                "answerText": "micro-framework",
+                "answerText": "マイクロフレームワーク",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "What does the Pickle module of Python do",
+            "questionText": "PythonのPickleモジュールが行うのは",
             "answerOptions": [
               {
-                "answerText": "Serializes a Python Object",
+                "answerText": "パイソンオブジェクトのシリアライズ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "De-serializes a Python Object",
+                "answerText": "Pythonオブジェクトのデシリアライズ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Serializes and De-serializes a Python Object",
+                "answerText": "Pythonオブジェクトのシリアライズとデシリアライズ",
                 "isCorrect": "true"
               }
             ]
@@ -971,10 +971,10 @@
       },
       {
         "id": 18,
-        "title": "Build a Web App: Post-Lecture Quiz",
+        "title": "Webアプリを構築する: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "What are the tools we can use to host a pre-trained model on the web using Python?",
+            "questionText": "事前学習済みモデルをWeb上にホスティングするために使えるPythonのツールは何でしょうか？",
             "answerOptions": [
               {
                 "answerText": "Flask",
@@ -991,7 +991,7 @@
             ]
           },
           {
-            "questionText": "What does SaaS stand for?",
+            "questionText": "SaaSは何の略でしょうか？",
             "answerOptions": [
               {
                 "answerText": "System as a Service",
@@ -1008,18 +1008,18 @@
             ]
           },
           {
-            "questionText": "What does Scikit-learn's LabelEncoder library do?",
+            "questionText": "Scikit-learn の LabelEncoder ライブラリが行うことは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Encodes data alphabetically",
+                "answerText": "データをアルファベットにエンコードすること",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Encodes data numerically",
+                "answerText": "データを数値にエンコードすること",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Encodes data serially",
+                "answerText": "データをシリアルにエンコードすること",
                 "isCorrect": "false"
               }
             ]
@@ -1028,55 +1028,55 @@
       },
       {
         "id": 19,
-        "title": "Classification 1: Pre-Lecture Quiz",
+        "title": "分類 1: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Classification is a form of supervised learning that has a lot in common with",
+            "questionText": "分類は教師あり学習の一種であり、多くの共通点を持つのは",
             "answerOptions": [
               {
-                "answerText": "Time Series",
+                "answerText": "時系列",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Regression techniques",
+                "answerText": "回帰手法",
                 "isCorrect": "true"
               },
               {
-                "answerText": "NLP",
+                "answerText": "自然言語処理",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What question can classification help answer?",
+            "questionText": "分類はどのような疑問に答えられるでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Is this email spam or not?",
+                "answerText": "このメールはスパムでしょうか？",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Can pigs fly?",
+                "answerText": "豚は飛べるでしょうか？",
                 "isCorrect": "false"
               },
               {
-                "answerText": "What is the meaning of life?",
+                "answerText": "人生の意味とは何でしょうか？",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What is the first step to using Classification techniques?",
+            "questionText": "分類手法を使うための最初のステップは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "creating classes of a dataset",
+                "answerText": "データのクラスを作成すること",
                 "isCorrect": "false"
               },
               {
-                "answerText": "cleaning and balancing your data",
+                "answerText": "データのクリーニングとバランシング",
                 "isCorrect": "true"
               },
               {
-                "answerText": "assigning a data point to a group or outcome",
+                "answerText": "データポイントをグループまたは結果に割り当てること",
                 "isCorrect": "false"
               }
             ]
@@ -1085,51 +1085,51 @@
       },
       {
         "id": 20,
-        "title": "Classification 1: Post-Lecture Quiz",
+        "title": "分類 1: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "What is a multiclass question?",
+            "questionText": "多クラス問題とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "the task of classifying data points into multiple classes",
+                "answerText": "データポイントを複数のクラスに分類するタスク",
                 "isCorrect": "false"
               },
               {
-                "answerText": "the task of classifying data points into one of several classes",
+                "answerText": "データポイントを複数のクラスのどれかに分類するタスク",
                 "isCorrect": "true"
               },
               {
-                "answerText": "the task of cleaning data points in multiple ways",
+                "answerText": "データポイントを複数の方法でクリーニングするタスク",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "It's important to clean out recurrent or unhelpful data to help your classifiers solve your problem.",
+            "questionText": "分類器が問題を解決するためには、何度も現れるデータや役に立たないデータを除くことが重要である",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What's the best reason to balance your data?",
+            "questionText": "データをバランシングする一番の理由は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Imbalanced data looks bad in visualizations",
+                "answerText": "不均衡データは可視化すると見栄えが悪いから",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Balancing your data yields better results because an ML model won't skew towards one class",
+                "answerText": "データをバランシングすると機械学習モデルがひとつのクラスに偏らず、良い結果が得られるから",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Balancing your data gives you more data points",
+                "answerText": "データをバランシングするとより多くのデータポイントが得られるから",
                 "isCorrect": "false"
               }
             ]
@@ -1138,51 +1138,51 @@
       },
       {
         "id": 21,
-        "title": "Classification 2: Pre-Lecture Quiz",
+        "title": "分類 2: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Balanced, clean data yields the best classification results",
+            "questionText": "バランシングおよびクリーニングされたデータが最も良い分類結果につながる",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "How do you choose the right classifier?",
+            "questionText": "正しい分類器はどのように選ぶでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Understand which classifiers work best for which scenarios",
+                "answerText": "どの分類器がどの場面に最適かを理解する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Educated guess and check",
+                "answerText": "経験に基づく推測と確認",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "Classification is a type of",
+            "questionText": "分類は一種の",
             "answerOptions": [
               {
-                "answerText": "NLP",
+                "answerText": "自然言語処理",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Supervised Learning",
+                "answerText": "教師あり学習",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Programming language",
+                "answerText": "プログラミング言語",
                 "isCorrect": "false"
               }
             ]
@@ -1191,55 +1191,55 @@
       },
       {
         "id": 22,
-        "title": "Classification 2: Post-Lecture Quiz",
+        "title": "分類 2: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "What is a 'solver'?",
+            "questionText": "「ソルバ」とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "the person who double-checks your work",
+                "answerText": "自分の仕事をダブルチェックしてくれる人",
                 "isCorrect": "false"
               },
               {
-                "answerText": "the algorithm to use in the optimization problem",
+                "answerText": "最適化問題で使用するアルゴリズム",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a machine learning technique",
+                "answerText": "機械学習の手法",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which classifier did we use in this lesson?",
+            "questionText": "レッスンで使用した分類器はどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Logistic Regression",
+                "answerText": "ロジスティック回帰",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Decision Trees",
+                "answerText": "決定木",
                 "isCorrect": "false"
               },
               {
-                "answerText": "One-vs-All Multiclass",
+                "answerText": "一対他の多クラス",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "How do you know if the classification algorithm is working as expected?",
+            "questionText": "分類アルゴリズムが期待通りに動作しているかどうかは、どのようにして知ることができるでしょうか？",
             "answerOptions": [
               {
-                "answerText": "By checking the accuracy of its predictions",
+                "answerText": "予測の精度を確認する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "By checking it against other algorithms",
+                "answerText": "他のアルゴリズムと比較する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "By looking at historical data for how good this algorithm is at solving similar problems",
+                "answerText": "似た問題を解決した際にどれだけ優れていたかを過去のデータから確認する",
                 "isCorrect": "false"
               }
             ]
@@ -1248,13 +1248,13 @@
       },
       {
         "id": 23,
-        "title": "Classification 3: Pre-Lecture Quiz",
+        "title": "分類 3: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "A good initial classifier to try is:",
+            "questionText": "最初に試すのに適した分類器は",
             "answerOptions": [
               {
-                "answerText": "Linear SVC",
+                "answerText": "線形サポートベクター分類器",
                 "isCorrect": "true"
               },
               {
@@ -1262,41 +1262,41 @@
                 "isCorrect": "false"
               },
               {
-                "answerText": "Logical SVC",
+                "answerText": "論理サポートベクター分類器",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Regularization controls:",
+            "questionText": "正則化がコントロールするのは",
             "answerOptions": [
               {
-                "answerText": "the influence of parameters",
+                "answerText": "パラメータの影響",
                 "isCorrect": "true"
               },
               {
-                "answerText": "the influence of training speed",
+                "answerText": "学習スピードの影響",
                 "isCorrect": "false"
               },
               {
-                "answerText": "the influence of outliers",
+                "answerText": "外れ値の影響",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "K-Neighbors classifier can be used for:",
+            "questionText": "k近傍分類器が使えるのは",
             "answerOptions": [
               {
-                "answerText": "supervised learning",
+                "answerText": "教師あり学習",
                 "isCorrect": "false"
               },
               {
-                "answerText": "unsupervised learning",
+                "answerText": "教師なし学習",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of these",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
@@ -1305,55 +1305,55 @@
       },
       {
         "id": 24,
-        "title": "Classification 3: Post-Lecture Quiz",
+        "title": "分類 3: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Support-Vector classifiers can be used for",
+            "questionText": "サポートベクター分類器が使えるのは",
             "answerOptions": [
               {
-                "answerText": "classification",
+                "answerText": "分類",
                 "isCorrect": "false"
               },
               {
-                "answerText": "regression",
+                "answerText": "回帰",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of these",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "Random Forest is a ___ type of classifier",
+            "questionText": "ランダムフォレストは〇〇な分類器の一種である",
             "answerOptions": [
               {
-                "answerText": "Ensemble",
+                "answerText": "アンサンブル",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Dissemble",
+                "answerText": "ディセンブル",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Assemble",
+                "answerText": "アセンブル",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Adaboost is known for:",
+            "questionText": "アダブーストは次のように知られている",
             "answerOptions": [
               {
-                "answerText": "focusing on the weights of incorrectly classified items",
+                "answerText": "誤って分類された要素の重みに着目する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "focusing on outliers",
+                "answerText": "外れ値に着目する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "focusing on incorrect data",
+                "answerText": "誤ったデータに着目する",
                 "isCorrect": "false"
               }
             ]
@@ -1362,51 +1362,51 @@
       },
       {
         "id": 25,
-        "title": "Classification 4: Pre-Lecture Quiz",
+        "title": "分類 4: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Recommendation systems might be used for",
+            "questionText": "推薦システムが使えるのは",
             "answerOptions": [
               {
-                "answerText": "Recommending a good restaurant",
+                "answerText": "良いレストランの推薦",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Recommending fashions to try",
+                "answerText": "試すべきファッションの推薦",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Both of these",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "Embedding a model in a web app helps it to be offline-capable",
+            "questionText": "Webアプリにモデルを埋め込むことでオフライン対応が可能になる",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Onnx Runtime can be used for",
+            "questionText": "Onnx Runtime が使えるのは",
             "answerOptions": [
               {
-                "answerText": "Running models in a web app",
+                "answerText": "Webアプリの中でモデルを実行する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Training models",
+                "answerText": "モデルを学習する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Hyperparameter tuning",
+                "answerText": "ハイパーパラメータのチューニング",
                 "isCorrect": "false"
               }
             ]
@@ -1415,27 +1415,27 @@
       },
       {
         "id": 26,
-        "title": "Classification 4: Post-Lecture Quiz",
+        "title": "分類 4: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Netron app helps you:",
+            "questionText": "Netronアプリが役立つのは",
             "answerOptions": [
               {
-                "answerText": "Visualize data",
+                "answerText": "データの可視化",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Visualize your model's structure",
+                "answerText": "モデル構造の可視化",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Test your web app",
+                "answerText": "Webアプリのテスト",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Convert your Scikit-learn model for use with Onnx using:",
+            "questionText": "Scikit-learn モデルをOnnxで扱えるようにするために使うのは",
             "answerOptions": [
               {
                 "answerText": "sklearn-app",
@@ -1452,18 +1452,18 @@
             ]
           },
           {
-            "questionText": "Using your model in a web app is called:",
+            "questionText": "Webアプリでモデルを使うことは、通称",
             "answerOptions": [
               {
-                "answerText": "inference",
+                "answerText": "推論",
                 "isCorrect": "true"
               },
               {
-                "answerText": "interference",
+                "answerText": "干渉",
                 "isCorrect": "false"
               },
               {
-                "answerText": "insurance",
+                "answerText": "保険",
                 "isCorrect": "false"
               }
             ]
@@ -1472,55 +1472,55 @@
       },
       {
         "id": 27,
-        "title": "Introduction to Clustering: Pre-Lecture Quiz",
+        "title": "クラスタリングへの導入: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "A real-life example of clustering would be",
+            "questionText": "クラスタリングの実例は",
             "answerOptions": [
               {
-                "answerText": "Setting the dinner table",
+                "answerText": "食卓の準備",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Sorting the laundry",
+                "answerText": "洗濯物の分類",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Grocery shopping",
+                "answerText": "食料品の買い物",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Clustering techniques can be used in these industries",
+            "questionText": "クラスタリングの手法が使える産業は",
             "answerOptions": [
               {
-                "answerText": "banking",
+                "answerText": "銀行",
                 "isCorrect": "false"
               },
               {
-                "answerText": "e-commerce",
+                "answerText": "電子商取引",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of these",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "Clustering is a type of:",
+            "questionText": "クラスタリングは一種の",
             "answerOptions": [
               {
-                "answerText": "supervised learning",
+                "answerText": "教師あり学習",
                 "isCorrect": "false"
               },
               {
-                "answerText": "unsupervised learning",
+                "answerText": "教師なし学習",
                 "isCorrect": "true"
               },
               {
-                "answerText": "reinforcement learning",
+                "answerText": "強化学習",
                 "isCorrect": "false"
               }
             ]
@@ -1529,44 +1529,44 @@
       },
       {
         "id": 28,
-        "title": "Introduction to Clustering: Post-Lecture Quiz",
+        "title": "クラスタリングへの導入: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Euclidean geometry is arranged along",
+            "questionText": "ユークリッド幾何学が配置されるのは",
             "answerOptions": [
               {
-                "answerText": "planes",
+                "answerText": "平面",
                 "isCorrect": "true"
               },
               {
-                "answerText": "curves",
+                "answerText": "曲面",
                 "isCorrect": "false"
               },
               {
-                "answerText": "spheres",
+                "answerText": "球面",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "The density of your clustering data is related to its",
+            "questionText": "クラスタリングデータの密度が関係するのは",
             "answerOptions": [
               {
-                "answerText": "noise",
+                "answerText": "ノイズ",
                 "isCorrect": "true"
               },
               {
-                "answerText": "depth",
+                "answerText": "深さ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "validity",
+                "answerText": "妥当性",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "The best-known clustering algorithm is",
+            "questionText": "最も有名なクラスタリングアルゴリズムは",
             "answerOptions": [
               {
                 "answerText": "k-means",
@@ -1586,55 +1586,55 @@
       },
       {
         "id": 29,
-        "title": "K-Means Clustering: Pre-Lecture Quiz",
+        "title": "K-Means法: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "K-Means is derived from:",
+            "questionText": "K-Means の派生元は",
             "answerOptions": [
               {
-                "answerText": "electrical engineering",
+                "answerText": "電気工学",
                 "isCorrect": "false"
               },
               {
-                "answerText": "signal processing",
+                "answerText": "信号処理",
                 "isCorrect": "true"
               },
               {
-                "answerText": "computational linguistics",
+                "answerText": "計算言語学",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A good Silhouette score means:",
+            "questionText": "良いシルエットスコアとは",
             "answerOptions": [
               {
-                "answerText": "clusters are well-separated and well-defined",
+                "answerText": "クラスタがよく分離されていて、よく定義されている",
                 "isCorrect": "true"
               },
               {
-                "answerText": "there are few clusters",
+                "answerText": "クラスタの数が少ない",
                 "isCorrect": "false"
               },
               {
-                "answerText": "there are many clusters",
+                "answerText": "クラスタの数が多い",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Variance is:",
+            "questionText": "分散とは",
             "answerOptions": [
               {
-                "answerText": "the average of the squared differences from the mean",
+                "answerText": "平均との差を二乗した値の平均",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a problem for clustering if it becomes too high",
+                "answerText": "クラスタリングにおいて高くなりすぎると問題になるもの",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of these",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
@@ -1643,51 +1643,51 @@
       },
       {
         "id": 30,
-        "title": "K-Means Clustering: Post-Lecture Quiz",
+        "title": "K-Means法: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "A Voronoi diagram shows:",
+            "questionText": "ボロノイ図が表すのは",
             "answerOptions": [
               {
-                "answerText": "a cluster's variance",
+                "answerText": "クラスタの分散",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a cluster's seed and its region",
+                "answerText": "クラスタのシードとその領域",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a cluster's inertia",
+                "answerText": "クラスタの慣性",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Inertia is",
+            "questionText": "慣性とは",
             "answerOptions": [
               {
-                "answerText": "a measure of how internally coherent clusters are",
+                "answerText": "どれだけ内部にまとまっているクラスタかを表す指標",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a measure of how much clusters move",
+                "answerText": "クラスタがどれだけ動くかを表す指標",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a measure of cluster quality",
+                "answerText": "クラスタの質を表す指標",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Using K-Means, you must first determine the value of 'k'",
+            "questionText": "K-Means を使う際は、最初に 'k' の値を決める必要がある",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
@@ -1696,10 +1696,10 @@
       },
       {
         "id": 31,
-        "title": "Intro to NLP: Pre-Lecture Quiz",
+        "title": "自然言語処理への導入: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "What does NLP stand for in these lessons?",
+            "questionText": "レッスンにおいてNLPは何の略でしょうか？",
             "answerOptions": [
               {
                 "answerText": "Neural Language Processing",
@@ -1716,35 +1716,35 @@
             ]
           },
           {
-            "questionText": "Eliza was an early bot that acted as a computer",
+            "questionText": "初期のボットであるElizaが演じていたのは",
             "answerOptions": [
               {
-                "answerText": "therapist",
+                "answerText": "療法士",
                 "isCorrect": "true"
               },
               {
-                "answerText": "doctor",
+                "answerText": "医者",
                 "isCorrect": "false"
               },
               {
-                "answerText": "nurse",
+                "answerText": "看護師",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Alan Turing's 'Turing Test' tried to determine if a computer was",
+            "questionText": "アラン・チューリングの「チューリングテスト」が判定しようとしていたのは、コンピュータが",
             "answerOptions": [
               {
-                "answerText": "indistinguishable from a human",
+                "answerText": "人間と見分けがつかないかどうか",
                 "isCorrect": "false"
               },
               {
-                "answerText": "thinking",
+                "answerText": "思考しているかどうか",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
@@ -1753,10 +1753,10 @@
       },
       {
         "id": 32,
-        "title": "Intro to NLP: Post-Lecture Quiz",
+        "title": "自然言語処理への導入: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Joseph Weizenbaum invented the bot",
+            "questionText": "ジョセフ・ワイゼンバウムが発明したボットは",
             "answerOptions": [
               {
                 "answerText": "Elisha",
@@ -1773,35 +1773,35 @@
             ]
           },
           {
-            "questionText": "A conversational bot gives output based on",
+            "questionText": "会話型のボットが出力する方法は",
             "answerOptions": [
               {
-                "answerText": "Randomly choosing predefined choices",
+                "answerText": "あらかじめ決められた選択肢からランダムに選ぶ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Analyzing the input and using machine intelligence",
+                "answerText": "入力を分析して機械知能を使う",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Both of these",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "How would you make the bot more effective?",
+            "questionText": "ボットをより効果的にするにはどうすれば良いでしょうか？",
             "answerOptions": [
               {
-                "answerText": "By asking it more questions.",
+                "answerText": "ボットに対してより多くの質問をする",
                 "isCorrect": "false"
               },
               {
-                "answerText": "By feeding it more data and training it accordingly",
+                "answerText": "ボットにより多くのデータを与えて、それに応じた学習をさせる",
                 "isCorrect": "true"
               },
               {
-                "answerText": "The bot is dumb, it cannot learn :(",
+                "answerText": "ボットは頭が悪いので学習できない :(",
                 "isCorrect": "false"
               }
             ]
@@ -1810,55 +1810,55 @@
       },
       {
         "id": 33,
-        "title": "NLP Tasks: Pre-Lecture Quiz",
+        "title": "自然言語処理のタスク: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Tokenization",
+            "questionText": "トークン化は",
             "answerOptions": [
               {
-                "answerText": "Splits text by means of punctuation",
+                "answerText": "文章を句読点で分割する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Splits text into separate tokens (words)",
+                "answerText": "文章をトークン（単語）に分割する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Splits text into phrases",
+                "answerText": "文章をフレーズに分割する",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Embeddings",
+            "questionText": "埋め込みは",
             "answerOptions": [
               {
-                "answerText": "converts text data numerically so words can cluster",
+                "answerText": "単語をクラスタ化するために文章を数値に変換する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "embeds words into phrases",
+                "answerText": "単語をフレーズに埋め込む",
                 "isCorrect": "false"
               },
               {
-                "answerText": "embeds sentences into paragraphs",
+                "answerText": "文を段落に埋め込む",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Parts-of-Speech Tagging",
+            "questionText": "品詞タグ付けは",
             "answerOptions": [
               {
-                "answerText": "divides sentences by their parts of speech",
+                "answerText": "文を品詞で分ける",
                 "isCorrect": "false"
               },
               {
-                "answerText": "takes tokenized words and tags them by their part of speech",
+                "answerText": "トークン化された単語を品詞でタグ付けする",
                 "isCorrect": "true"
               },
               {
-                "answerText": "diagrams sentences",
+                "answerText": "文を図で表す",
                 "isCorrect": "false"
               }
             ]
@@ -1867,55 +1867,55 @@
       },
       {
         "id": 34,
-        "title": "NLP Tasks: Post-Lecture Quiz",
+        "title": "自然言語処理のタスク: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Build a dictionary of how often words reoccur using:",
+            "questionText": "単語の出現頻度に関する辞書を作る際に使うのは",
             "answerOptions": [
               {
-                "answerText": "Word and Phrase Dictionary",
+                "answerText": "単語とフレーズの辞書",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Word and Phrase Frequencies",
+                "answerText": "単語とフレーズの出現頻度",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Word and Phrase Library",
+                "answerText": "単語とフレーズのライブラリ",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "N-grams refer to",
+            "questionText": "N-grams とは",
             "answerOptions": [
               {
-                "answerText": "A text can be split into sequences of words of a set length",
+                "answerText": "一定の長さの単語列に分割できる文章",
                 "isCorrect": "true"
               },
               {
-                "answerText": "A word can be split into sequences of characters of a set length",
+                "answerText": "一定の長さの文字列に分割できる単語",
                 "isCorrect": "false"
               },
               {
-                "answerText": "A text can be split into paragraphs of a set length",
+                "answerText": "一定の長さの段落に分割できる文章",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Sentiment analysis",
+            "questionText": "感情分析は",
             "answerOptions": [
               {
-                "answerText": "analyzes a phrase for positivity or negativity",
+                "answerText": "フレーズがポジティブかネガティブかを分析する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "analyzes a phrase for sentimentality",
+                "answerText": "フレーズが感傷的かどうかを分析する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "analyzes a phrase for sadness",
+                "answerText": "フレーズの悲しさを分析する",
                 "isCorrect": "false"
               }
             ]
@@ -1924,55 +1924,55 @@
       },
       {
         "id": 35,
-        "title": "NLP and Translation: Pre-Lecture Quiz",
+        "title": "自然言語処理と翻訳: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Naive translation",
+            "questionText": "単純な翻訳は",
             "answerOptions": [
               {
-                "answerText": "translates words only",
+                "answerText": "単語のみを翻訳する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "translates sentence structure",
+                "answerText": "文章構造を翻訳する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "translates sentiment",
+                "answerText": "感情を翻訳する",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A *corpus* of texts refers to",
+            "questionText": "文章の「コーパス」とは",
             "answerOptions": [
               {
-                "answerText": "A small number of texts",
+                "answerText": "少量の文章",
                 "isCorrect": "false"
               },
               {
-                "answerText": "A large number of texts",
+                "answerText": "大量の文章",
                 "isCorrect": "true"
               },
               {
-                "answerText": "One standard text",
+                "answerText": "ひとつの標準的な文章",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "If a ML model has enough human translations to build a model on, it can",
+            "questionText": "もしモデルを構築するのに十分な人間の翻訳があれば、機械学習モデルは",
             "answerOptions": [
               {
-                "answerText": "abbreviate translations",
+                "answerText": "翻訳を省略できる",
                 "isCorrect": "false"
               },
               {
-                "answerText": "standardize translations",
+                "answerText": "翻訳を標準化できる",
                 "isCorrect": "false"
               },
               {
-                "answerText": "improve the accuracy of translations",
+                "answerText": "翻訳の精度を高められる",
                 "isCorrect": "true"
               }
             ]
@@ -1981,13 +1981,13 @@
       },
       {
         "id": 36,
-        "title": "NLP and Translation: Post-Lecture Quiz",
+        "title": "自然言語処理と翻訳: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Underlying TextBlob's translation library is:",
+            "questionText": "TextBlob の翻訳ライブラリの基盤は",
             "answerOptions": [
               {
-                "answerText": "Google Translate",
+                "answerText": "Google翻訳",
                 "isCorrect": "true"
               },
               {
@@ -1995,20 +1995,20 @@
                 "isCorrect": "false"
               },
               {
-                "answerText": "A custom ML model",
+                "answerText": "独自の機械学習モデル",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "To use `blob.translate` you need:",
+            "questionText": "`blob.translate` を使用するために必要なのは",
             "answerOptions": [
               {
-                "answerText": "an internet connection",
+                "answerText": "インターネット接続",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a dictionary",
+                "answerText": "辞書",
                 "isCorrect": "false"
               },
               {
@@ -2018,18 +2018,18 @@
             ]
           },
           {
-            "questionText": "To determine sentiment, an ML approach would be to:",
+            "questionText": "感情を判定するために機械学習のアプローチで行うのは",
             "answerOptions": [
               {
-                "answerText": "apply Regression techniques to manually generated opinions and scores and look for patterns",
+                "answerText": "手で作成した意見やスコアに回帰の手法を適用して、パターンを探す",
                 "isCorrect": "false"
               },
               {
-                "answerText": "apply NLP techniques to manually generated opinions and scores and look for patterns",
+                "answerText": "手で作成した意見やスコアに自然言語処理の手法を適用して、パターンを探す",
                 "isCorrect": "true"
               },
               {
-                "answerText": "apply Clustering techniques to manually generated opinions and scores and look for patterns",
+                "answerText": "手で作成した意見やスコアにクラスタリングの手法を適用して、パターンを探す",
                 "isCorrect": "false"
               }
             ]
@@ -2038,55 +2038,55 @@
       },
       {
         "id": 37,
-        "title": "NLP 4: Pre-Lecture Quiz",
+        "title": "自然言語処理 4: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "What information can we get from text that was written or spoken by a human?",
+            "questionText": "人間が書いたり話した文章から得られる情報は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "patterns and frequencies",
+                "answerText": "パターンと頻度",
                 "isCorrect": "false"
               },
               {
-                "answerText": "sentiment and meaning",
+                "answerText": "感情と意味",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "What is sentiment analysis?",
+            "questionText": "感情分析とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "a study of whether a family heirloom has sentimental value",
+                "answerText": "家宝に感傷的な価値があるかどうかの研究",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a method of systematically identifying, extracting, quantifying, and studying affective states and subjective information",
+                "answerText": "感情の状態や主観的な情報を体系的に識別・抽出・定量化・研究する方法",
                 "isCorrect": "true"
               },
               {
-                "answerText": "the ability to tell whether someone is sad or happy",
+                "answerText": "ある人物が悲しいのか楽しいのかを見分ける能力",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What question could be answered using a dataset of hotel reviews, Python, and sentiment analysis?",
+            "questionText": "ホテルのレビューのデータセット・Python・感情分析を使うことで答えられる質問は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "What are the most frequently used words and phrases in reviews?",
+                "answerText": "レビューで最もよく使われる単語やフレーズは何でしょうか？",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Which resort has the best pool?",
+                "answerText": "どのリゾートに最も良いプールがあるでしょうか？",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Is there valet parking at this hotel?",
+                "answerText": "このホテルにはバレーパーキングがあるでしょうか？",
                 "isCorrect": "false"
               }
             ]
@@ -2095,51 +2095,51 @@
       },
       {
         "id": 38,
-        "title": "NLP 4: Post-Lecture Quiz",
+        "title": "自然言語処理 4: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "What is the essence of NLP?",
+            "questionText": "自然言語処理の本質とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "categorizing human language into happy or sad",
+                "answerText": "人間の言葉を楽しいものと悲しいものに分類すること",
                 "isCorrect": "false"
               },
               {
-                "answerText": "interpreting meaning or sentiment without having to have a human do it",
+                "answerText": "人の手を借りずに意味や感情を読み取ること",
                 "isCorrect": "true"
               },
               {
-                "answerText": "finding outliers in sentiment and examining them",
+                "answerText": "感情の異常を見つけて調べること",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What are some things you might look for while cleaning data?",
+            "questionText": "データをクリーニングする際に気を付けたほうが良いことは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "characters in other languages",
+                "answerText": "他の言語の文字",
                 "isCorrect": "false"
               },
               {
-                "answerText": "blank rows or columns",
+                "answerText": "空の行や列",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "It is important to understand your data and its foibles before performing operations on it.",
+            "questionText": "データを操作する前にデータとその弱点を理解するのが重要である",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
@@ -2148,51 +2148,51 @@
       },
       {
         "id": 39,
-        "title": "NLP 5: Pre-Lecture Quiz",
+        "title": "自然言語処理 5: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Why is it important to clean data before analyzing it?",
+            "questionText": "分析する前にデータをクリーニングすることが重要なのはなぜでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Some columns might have missing or incorrect data",
+                "answerText": "データが欠損していたり不正だったりする列があるかもしれないから",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Messy data can lead to false conclusions about the dataset",
+                "answerText": "汚いデータはデータセットに関する誤った結論につながる可能性があるから",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "What is one example of a strategy for cleaning data?",
+            "questionText": "データクリーニング戦略の例は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "removing columns/rows that aren't useful for answering a specific question",
+                "answerText": "特定の質問に答えるために有用でない列や行の削除",
                 "isCorrect": "true"
               },
               {
-                "answerText": "getting rid of verified values that don't fit your hypothesis",
+                "answerText": "仮説に合わない検証値の排除",
                 "isCorrect": "false"
               },
               {
-                "answerText": "moving the outliers to a separate table and running the calculations for that table to see if they match",
+                "answerText": "外れ値を別の表に移し、その表で計算を行って、一致するかどうかを確認",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "It can be useful to categorize data using a Tag column.",
+            "questionText": "Tag列を使ってデータを分類すると便利なことがある",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
@@ -2201,51 +2201,51 @@
       },
       {
         "id": 40,
-        "title": "NLP 5: Post-Lecture Quiz",
+        "title": "自然言語処理 5: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "What is the goal of the dataset?",
+            "questionText": "データセットの目的は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "to see how many negative and positive reviews there are for hotels across the world",
+                "answerText": "世界中のホテルに対する否定的および肯定的なレビューがいくつあるかを確認すること",
                 "isCorrect": "false"
               },
               {
-                "answerText": "to add sentiment and columns that will help you choose the best hotel",
+                "answerText": "最も良いホテルを選ぶために役立つ意見と列を追加すること",
                 "isCorrect": "true"
               },
               {
-                "answerText": "to analyze why people leave specific reviews",
+                "answerText": "人々がなぜ特定のレビューを残すのかを分析すること",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What are stop words?",
+            "questionText": "ストップワードとは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "common English words that do not change the sentiment of a sentence",
+                "answerText": "文章の印象を変えない一般的な単語",
                 "isCorrect": "false"
               },
               {
-                "answerText": "words that you can remove to speed up sentiment analysis",
+                "answerText": "感情分析を高速化するために除去できる単語",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "To test the sentiment analysis, make sure it matches the reviewer's score for the same review.",
+            "questionText": "感情分析をテストするには、同じレビューに対するレビュアーのスコアが一致していることを確認する",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
@@ -2254,55 +2254,55 @@
       },
       {
         "id": 41,
-        "title": "Intro to Time Series: Pre-Lecture Quiz",
+        "title": "時系列への導入: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Time Series Forecasting is useful in",
+            "questionText": "時系列予測が役立つのは",
             "answerOptions": [
               {
-                "answerText": "determining future costs",
+                "answerText": "将来のコストを決めるとき",
                 "isCorrect": "false"
               },
               {
-                "answerText": "predicting future pricing",
+                "answerText": "将来の価格を予測するとき",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "A time series is a sequence taken at:",
+            "questionText": "時系列とは、次のような列である",
             "answerOptions": [
               {
-                "answerText": "successive equally spaced points in space",
+                "answerText": "空間的に連続した等間隔の点",
                 "isCorrect": "false"
               },
               {
-                "answerText": "successive equally spaced points in time",
+                "answerText": "時間的に連続した等間隔の点",
                 "isCorrect": "true"
               },
               {
-                "answerText": "successive equally spaced points in space and time",
+                "answerText": "時間的および空間的に連続した等間隔の点",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Time series can be used in:",
+            "questionText": "時系列が使用できるのは",
             "answerOptions": [
               {
-                "answerText": "earthquake prediction",
+                "answerText": "地震予測",
                 "isCorrect": "true"
               },
               {
-                "answerText": "computer vision",
+                "answerText": "コンピュータビジョン",
                 "isCorrect": "false"
               },
               {
-                "answerText": "color analysis",
+                "answerText": "色解析",
                 "isCorrect": "false"
               }
             ]
@@ -2311,55 +2311,55 @@
       },
       {
         "id": 42,
-        "title": "Intro to Time Series: Post-Lecture Quiz",
+        "title": "時系列への導入: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Time series trends are",
+            "questionText": "時系列のトレンドとは",
             "answerOptions": [
               {
-                "answerText": "Measurable increases and decreases over time",
+                "answerText": "時間の経過に伴う測定可能な増加と減少",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Quantifying decreases over time",
+                "answerText": "時間の経過に伴う減少の定量化",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Gaps between increases and decreases over time",
+                "answerText": "時間の経過に伴う増加と減少の差",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Outliers are",
+            "questionText": "外れ値とは",
             "answerOptions": [
               {
-                "answerText": "points close to standard data variance",
+                "answerText": "標準的なデータの分散に近い点",
                 "isCorrect": "false"
               },
               {
-                "answerText": "points far away from standard data variance",
+                "answerText": "標準的なデータの分散から離れた点",
                 "isCorrect": "true"
               },
               {
-                "answerText": "points within standard data variance",
+                "answerText": "標準的なデータの分散の中にある点",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Time Series Forecasting is most useful for",
+            "questionText": "時系列予測が最も有効なのは",
             "answerOptions": [
               {
-                "answerText": "Econometrics",
+                "answerText": "計量経済学",
                 "isCorrect": "true"
               },
               {
-                "answerText": "History",
+                "answerText": "歴史",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Libraries",
+                "answerText": "図書館",
                 "isCorrect": "false"
               }
             ]
@@ -2368,10 +2368,10 @@
       },
       {
         "id": 43,
-        "title": "Time Series ARIMA: Pre-Lecture Quiz",
+        "title": "時系列ARIMA: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "ARIMA stands for",
+            "questionText": "ARIMAは次の略である",
             "answerOptions": [
               {
                 "answerText": "AutoRegressive Integral Moving Average",
@@ -2388,35 +2388,35 @@
             ]
           },
           {
-            "questionText": "Stationarity refers to",
+            "questionText": "定常性とは",
             "answerOptions": [
               {
-                "answerText": "data whose attributes does not change when shifted in time",
+                "answerText": "時間をずらしても属性が変わらないデータ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "data whose distribution does not change when shifted in time",
+                "answerText": "時間をずらしても分布が変わらないデータ",
                 "isCorrect": "true"
               },
               {
-                "answerText": "data whose distribution changes when shifted in time",
+                "answerText": "時間をずらすと分布が変わるデータ",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Differencing",
+            "questionText": "差分変換は",
             "answerOptions": [
               {
-                "answerText": "stabilizes trend and seasonality",
+                "answerText": "トレンドや季節性を安定させる",
                 "isCorrect": "false"
               },
               {
-                "answerText": "exacerbates trend and seasonality",
+                "answerText": "トレンドや季節性を悪化させる",
                 "isCorrect": "false"
               },
               {
-                "answerText": "eliminates trend and seasonality",
+                "answerText": "トレンドや季節性を排除する",
                 "isCorrect": "true"
               }
             ]
@@ -2425,55 +2425,55 @@
       },
       {
         "id": 44,
-        "title": "Time Series ARIMA: Post-Lecture Quiz",
+        "title": "時系列ARIMA: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "ARIMA is used to make a model fit the special form of time series data",
+            "questionText": "ARIMAは、時系列データの特殊な形に対してモデルを次のように適合させるために使われる",
             "answerOptions": [
               {
-                "answerText": "as flat as possible",
+                "answerText": "できるだけ平坦に",
                 "isCorrect": "false"
               },
               {
-                "answerText": "as closely as possible",
+                "answerText": "できるだけ近く",
                 "isCorrect": "true"
               },
               {
-                "answerText": "via scatterplots",
+                "answerText": "散布図によって",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Use SARIMAX to",
+            "questionText": "SARIMAXを使うのは",
             "answerOptions": [
               {
-                "answerText": "manage seasonal ARIMA models",
+                "answerText": "季節性ARIMAモデルを管理するため",
                 "isCorrect": "true"
               },
               {
-                "answerText": "manage special ARIMA models",
+                "answerText": "特別なARIMAモデルを管理するため",
                 "isCorrect": "false"
               },
               {
-                "answerText": "manage statistical ARIMA models",
+                "answerText": "統計的なARIMAモデルを管理するため",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "'Walk-Forward' validation involves",
+            "questionText": "「ウォークフォワード」検証では",
             "answerOptions": [
               {
-                "answerText": "re-evaluating a model progressively as it is validated",
+                "answerText": "モデルを検証しながら段階的に再評価する",
                 "isCorrect": "false"
               },
               {
-                "answerText": "re-training a model progressively as it is validated",
+                "answerText": "モデルを検証しながら段階的に再学習する",
                 "isCorrect": "true"
               },
               {
-                "answerText": "re-configuring a model progressively as it is validated",
+                "answerText": "モデルを検証しながら段階的に再構成する",
                 "isCorrect": "false"
               }
             ]
@@ -2482,51 +2482,51 @@
       },
       {
         "id": 45,
-        "title": "Reinforcement 1: Pre-Lecture Quiz",
+        "title": "強化 1: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "What is reinforcement learning?",
+            "questionText": "強化学習とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "teaching someone something over and over again until they understand",
+                "answerText": "理解するまで何度も教えること",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a learning technique that deciphers the optimal behavior of an agent in some environment by running many experiments",
+                "answerText": "何回も試行することで、ある環境におけるエージェントの最適な行動を解読する学習手法",
                 "isCorrect": "true"
               },
               {
-                "answerText": "understanding how to run multiple experiments at once",
+                "answerText": "複数の試行を一度に行う方法を理解すること",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What is a policy?",
+            "questionText": "方策とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "a function that returns the action at any given state",
+                "answerText": "任意の状態で行動を返す関数",
                 "isCorrect": "true"
               },
               {
-                "answerText": "a document that tells you whether or not you can return an item",
+                "answerText": "返品できるかどうかを示す書類",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a function that is used for a random purpose",
+                "answerText": "ランダムな目的で使用される関数",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "A reward function returns a score for each state of an environment.",
+            "questionText": "報酬関数はある環境における各状態に対するスコアを返す",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "true"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "false"
               }
             ]
@@ -2535,30 +2535,30 @@
       },
       {
         "id": 46,
-        "title": "Reinforcement 1: Post-Lecture Quiz",
+        "title": "強化 1: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "What is Q-Learning?",
+            "questionText": "Q学習とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "a mechanism for recording the 'goodness' of each state",
+                "answerText": "各状態の「良さ」を記録する仕組み",
                 "isCorrect": "false"
               },
               {
-                "answerText": "an algorithm where the policy is defined by a Q-Table",
+                "answerText": "Qテーブルによって方策が定義されているアルゴリズム",
                 "isCorrect": "false"
               },
               {
-                "answerText": "both of the above",
+                "answerText": "上の両方",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "For what values does a Q-Table correspond to the random walk policy?",
+            "questionText": "ランダムウォークに対応するQテーブルの値は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "all equal values",
+                "answerText": "すべて同じ値",
                 "isCorrect": "true"
               },
               {
@@ -2566,20 +2566,20 @@
                 "isCorrect": "false"
               },
               {
-                "answerText": "all different values",
+                "answerText": "すべて違う値",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "It was better to use exploration than exploitation during the learning process in our lesson.",
+            "questionText": "レッスンの学習プロセスでは搾取よりも探索を行ったほうが良かった",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "false"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "true"
               }
             ]
@@ -2588,51 +2588,51 @@
       },
       {
         "id": 47,
-        "title": "Reinforcement 2: Pre-Lecture Quiz",
+        "title": "強化 2: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "Chess and Go are games with continuous states.",
+            "questionText": "チェスや囲碁は連続した状態を持つゲームである",
             "answerOptions": [
               {
-                "answerText": "true",
+                "answerText": "正しい",
                 "isCorrect": "false"
               },
               {
-                "answerText": "false",
+                "answerText": "正しくない",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "What is the CartPole problem?",
+            "questionText": "カートポール問題とは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "a process for eliminating outliers",
+                "answerText": "外れ値を排除するプロセス",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a method for optimizing your shopping cart",
+                "answerText": "買い物かごを最適化する方法",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a simplified version of balancing",
+                "answerText": "バランシングの簡易版",
                 "isCorrect": "true"
               }
             ]
           },
           {
-            "questionText": "What tool can we use to play out different scenarios of potential states in a game?",
+            "questionText": "ゲームの中で起こりうる状態における様々なシナリオを行うために使えるツールは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "guess and check",
+                "answerText": "推測と確認",
                 "isCorrect": "false"
               },
               {
-                "answerText": "simulation environments",
+                "answerText": "シミュレーション環境",
                 "isCorrect": "true"
               },
               {
-                "answerText": "state transition testing",
+                "answerText": "状態遷移テスト",
                 "isCorrect": "false"
               }
             ]
@@ -2641,55 +2641,55 @@
       },
       {
         "id": 48,
-        "title": "Reinforcement 2: Post-Lecture Quiz",
+        "title": "強化 2: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Where do we define all possible actions in an environment?",
+            "questionText": "ある環境で起こりうるすべての状態を定義する場所はどこでしょうか？",
             "answerOptions": [
               {
-                "answerText": "methods",
+                "answerText": "メソッド",
                 "isCorrect": "false"
               },
               {
-                "answerText": "action space",
+                "answerText": "アクションスペース",
                 "isCorrect": "true"
               },
               {
-                "answerText": "action list",
+                "answerText": "アクションリスト",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What pair did we use as the dictionary key-value?",
+            "questionText": "辞書のキーバリューとして使ったペアは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "(state, action) as the key, Q-Table entry as the value",
+                "answerText": "キーに(state, action)、バリューにQテーブルのエントリ",
                 "isCorrect": "true"
               },
               {
-                "answerText": "state as the key, action as the value",
+                "answerText": "キーにstate、バリューにaction",
                 "isCorrect": "false"
               },
               {
-                "answerText": "the value of the qvalues function as the key, action as the value",
+                "answerText": "キーにqvalues関数の値、バリューにaction",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What are the hyperparameters we used during Q-Learning?",
+            "questionText": "Q学習で使用したハイパーパラメータは何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "q-table value, current reward, random action",
+                "answerText": "Qテーブルの値・現在の報酬・ランダムなアクション",
                 "isCorrect": "false"
               },
               {
-                "answerText": "learning rate, discount factor, exploration/exploitation factor",
+                "answerText": "学習率・割引率・探索/搾取率",
                 "isCorrect": "true"
               },
               {
-                "answerText": "cumulative rewards, learning rate, exploration factor",
+                "answerText": "累積報酬・学習率・探索率",
                 "isCorrect": "false"
               }
             ]
@@ -2698,55 +2698,55 @@
       },
       {
         "id": 49,
-        "title": "Real World Applications: Pre-Lecture Quiz",
+        "title": "実世界への応用: 講義前の小テスト",
         "quiz": [
           {
-            "questionText": "What's an example of an ML application in the Finance industry?",
+            "questionText": "金融業界における機械学習の応用例は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Personalizing the customer journey using NLP",
+                "answerText": "自然言語処理を使ったカスタマージャーニーのパーソナライズ",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Wealth management using linear regression",
+                "answerText": "線形回帰を使った健康管理",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Energy management using Time Series",
+                "answerText": "時系列を使ったエネルギー管理",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What ML technique can hospitals use to manage readmission?",
+            "questionText": "再入院を管理するために病院で使える機械学習の手法は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Clustering",
+                "answerText": "クラスタリング",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Time Series",
+                "answerText": "時系列",
                 "isCorrect": "false"
               },
               {
-                "answerText": "NLP",
+                "answerText": "自然言語処理",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What is an example of using Time Series for energy management?",
+            "questionText": "エネルギー管理に時系列を使用する例は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Motion sensing animals",
+                "answerText": "動物のモーションセンシング",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Smart parking meters",
+                "answerText": "スマートパーキングメーター",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Tracking forest fires",
+                "answerText": "森林火災の追跡",
                 "isCorrect": "false"
               }
             ]
@@ -2755,55 +2755,55 @@
       },
       {
         "id": 50,
-        "title": "Real World Applications: Post-Lecture Quiz",
+        "title": "実世界への応用: 講義後の小テスト",
         "quiz": [
           {
-            "questionText": "Which ML technique can be used to detect credit card fraud?",
+            "questionText": "クレジットカードの不正利用を検出するために使用できる機械学習の手法はどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Regression",
+                "answerText": "回帰",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Clustering",
+                "answerText": "クラスタリング",
                 "isCorrect": "true"
               },
               {
-                "answerText": "NLP",
+                "answerText": "自然言語処理",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which ML technique is exemplified in forest management?",
+            "questionText": "森林管理で例示されている機械学習の手法はどれでしょうか？",
             "answerOptions": [
               {
-                "answerText": "Reinforcement Learning",
+                "answerText": "強化学習",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Time Series",
+                "answerText": "時系列",
                 "isCorrect": "false"
               },
               {
-                "answerText": "NLP",
+                "answerText": "自然言語処理",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "What's an example of an ML application in the Health Care industry?",
+            "questionText": "ヘルスケア業界における機械学習の応用例は何でしょうか？",
             "answerOptions": [
               {
-                "answerText": "Predicting student behavior using regression",
+                "answerText": "回帰を使った学生の行動予測",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Managing clinical trials using classifiers",
+                "answerText": "分類器を使った臨床試験の管理",
                 "isCorrect": "true"
               },
               {
-                "answerText": "Motion sensing of animals using classifiers",
+                "answerText": "分類器を使った動物のモーションセンシング",
                 "isCorrect": "false"
               }
             ]

@@ -1,6 +1,6 @@
 # Build a Web App to use a ML Model
 
-In this lesson, you will train an ML model on a data set that's out of this world: _UFO sightings over the past century_, sourced from [NUFORC's database](https://www.nuforc.org).
+In this lesson, you will train an ML model on a data set that's out of this world: _UFO sightings over the past century_, sourced from NUFORC's database.
 
 You will learn:
 
@@ -187,7 +187,7 @@ Now you can build a Flask app to call your model and return similar results, but
    cd web-app
    ```
 
-1. In your terminal type `pip install`, to install the libraries listed in _reuirements.txt_:
+1. In your terminal type `pip install`, to install the libraries listed in _requirements.txt_:
 
    ```bash
    pip install -r requirements.txt

@@ -4,7 +4,7 @@
 > 
 > [Dasani Madipalli](https://twitter.com/dasani_decoded) によるインフォグラフィック
 
-## [講義前のクイズ](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/11/)
+## [講義前のクイズ](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/11?loc=ja)
 
 ## イントロダクション
 
@@ -195,7 +195,7 @@ Jupyter notebookでうまく利用できるテータ可視化ライブラリの�
 
 Matplotlibが提供する様々なタイプのビジュアライゼーションを探ってみましょう。回帰の問題にはどのタイプが最も適しているでしょうか？
 
-## [講義後クイズ](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/12/)
+## [講義後クイズ](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/12?loc=ja)
 
 ## レビュー & 自主学習
 
@@ -203,4 +203,4 @@ Matplotlibが提供する様々なタイプのビジュアライゼーション�
 
 ## 課題
 
-[ビジュアライゼーションの探求](assignment.md)
+[ビジュアライゼーションの探求](./assignment.ja.md)
